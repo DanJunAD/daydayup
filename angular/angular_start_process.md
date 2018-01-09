@@ -87,9 +87,11 @@ var app = angular.module('test2', [])
 ![](../img/angular/angular_start_process_2.png)
 ## 步骤一：暴露全局对象angular
 1.如果window.angular不为空，则把它的值赋给全局对象angular，否则用空对象赋值给它。
+
 ![](../img/angular/angular_start_process_3.png)
 
 2.判断是否多次加载，若是多次加载，则抛出异常
+
 ![](../img/angular/angular_start_process_4.png)
 
 ## 步骤二：bindJQuery()，绑定jquery，若jquery无法获取，则绑定 angular自己封装的JQLite
