@@ -5,3 +5,10 @@
 
 ## angular
 * [angular 启动流程分析（需要修改）](https://github.com/DanJunAD/daydayup/blob/master/angular/angular_start_process.md)
+* [angular 作用域的坑](https://github.com/DanJunAD/daydayup/blob/master/angular/angular_scope.md)
+
+## css
+* [z-index](https://github.com/DanJunAD/daydayup/blob/master/css/z-index.md)
+
+## shell
+* [shell](https://github.com/DanJunAD/daydayup/blob/master/shell/shell.md)
