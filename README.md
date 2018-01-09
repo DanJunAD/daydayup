@@ -1,2 +1,2 @@
 # daydayup
-learning notes
+
