@@ -12,3 +12,11 @@
 
 ## shell
 * [shell](https://github.com/DanJunAD/daydayup/blob/master/shell/shell.md)
+
+## 代码质量检测
+* [复杂度检测](https://github.com/DanJunAD/daydayup/blob/master/litmus/litmus.md)
+
+## ELK
+* [x-pack 破解](https://github.com/DanJunAD/daydayup/blob/master/ELK/x-pack.md)
+* [常用API汇总](https://github.com/DanJunAD/daydayup/blob/master/ELK/api.md)
+* [集群健康度问题](https://github.com/DanJunAD/daydayup/blob/master/ELK/health.md)
