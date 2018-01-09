@@ -91,6 +91,7 @@ var app = angular.module('test2', [])
 
 2.判断是否多次加载，若是多次加载，则抛出异常
 ![](../img/angular/angular_start_process_4.png)
+
 ## 步骤二：bindJQuery()，绑定jquery，若jquery无法获取，则绑定 angular自己封装的JQLite
 ![](../img/angular/angular_start_process_5.png)
 
@@ -105,6 +106,7 @@ jqLite is a tiny, API-compatible subset of jQuery that allows Angular to manipul
 ![](../img/angular/angular_start_process_7.png)
 
 来看看bootstrap()函数
+
 ![](../img/angular/angular_start_process_8.png)
 
 执行doBootstrap()后，返回了injector对象，那再来看看injector对象是啥吧
