@@ -20,3 +20,6 @@
 * [x-pack 破解](https://github.com/DanJunAD/daydayup/blob/master/ELK/x-pack.md)
 * [常用API汇总](https://github.com/DanJunAD/daydayup/blob/master/ELK/api.md)
 * [集群健康度问题](https://github.com/DanJunAD/daydayup/blob/master/ELK/health.md)
+
+## ES6
+* [let const vs var](https://github.com/DanJunAD/daydayup/blob/master/ES6/let-const.md)
